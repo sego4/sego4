@@ -5,13 +5,15 @@
 
 - 🌱 I’m currently learning **c++에 관심을 가지고 그래픽 디자인 관련 학습 중입니다.**
 
+- 👨‍💻 All of my projects are available at [https://youtu.be/7Sfxqac1R-s](https://youtu.be/7Sfxqac1R-s)
+
 - 📝 I regularly write articles on [https://blog.naver.com/sego4](https://blog.naver.com/sego4)
 
 - 📫 How to reach me **sego4@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/https://youtu.be/7sfxqac1r-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtu.be/7sfxqac1r-s" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@박성준-d2k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@박성준-d2k" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
